@@ -33,8 +33,7 @@ Alongside cybersecurity, I also work on tools that help developers understand lo
 ##  GitHub Presence
 
 ![Nuknov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuknov&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuknov&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Nuknov&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuknov&layout=compact&theme=radical) 
 
 ---
 
