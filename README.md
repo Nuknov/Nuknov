@@ -1,16 +1,45 @@
-## Hi there 👋
+#  Hey there, I'm Nuknov (Ahmed Naveed)
+ Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools
 
-<!--
-**Nuknov/Nuknov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm deeply driven by understanding how systems break — and how to build tools that simulate, detect, and defend against those threats.  
+From malware behavior to encryption, I explore the gray areas of code for educational and research purposes.  
+Alongside cybersecurity, I also work on tools that help developers understand logic, algorithms, and systems more clearly.
+
+---
+
+##  Areas of Interest
+
+- Red Team Simulations & Ethical Exploits  
+- Custom Keyloggers & Behavioral Heatmaps  
+- Secure File Encryption & Decryption Systems  
+- Phishing & Social Engineering Simulations (for awareness)  
+- Code Obfuscation • Payload Generation • AI in Offensive Security  
+- Low-Level Programming for Real-World Logic Understanding  
+
+---
+
+##  Tech Stack
+
+**Languages:** Python • C# • Java • Batch • Bash  
+**Fields:** Ethical Hacking • System Tools • Malware Simulation  
+**Tools:** IP Scanner • Virtual Machines • Wireshark • Metasploit
+
+---
+
+##  GitHub Presence
+
+![Nuknov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuknov&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuknov&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Nuknov&theme=radical)
+
+---
+
+## ⚠️ Disclaimer
+
+> All repositories, tools, and content shared in this profile are intended solely for **educational, research, and ethical testing** purposes.  
+> I do **not** support or encourage any form of illegal or unethical use of the code.  
+> Use responsibly — in labs, simulations, and learning environments only.
