@@ -1,4 +1,4 @@
-#  Hey there, I'm Nuknov (Ahmed Naveed)
+#  Hey there, I'm Nuknov 
  Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools
 
 ---
