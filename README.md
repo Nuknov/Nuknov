@@ -1,3 +1,8 @@
+<div align="center" style="border: 2px solid orange; border-radius: 25px; padding: 10px; color: white; background: #1c1c1c; font-weight: bold;">
+⚠️ This account is under Federal Investigation.
+</div>
+
+
 #  Hey there, I'm Nuknov 
  Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools
 
