@@ -1,3 +1,5 @@
+![badge](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20This%20account%20is%20under%20Federal%20Investigation-orange?style=for-the-badge&labelColor=0d1117)
+
 #  Hey there, I'm Nuknov 
  Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools
 
