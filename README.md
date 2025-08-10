@@ -36,6 +36,11 @@ Alongside cybersecurity, I also work on tools that help developers understand lo
 
 ---
 
+## 📫 Connect With Me  
+[![Twitter](https://twitter.com/Nuknov)  
+[![GitHub](https://github.com/Nuknov)  
+
+
 ## ⚠️ Disclaimer
 
 > All repositories, tools, and content shared in this profile are intended solely for **educational, research, and ethical testing** purposes.  
