@@ -1,43 +1,38 @@
-#  Hey there, I'm Nuknov 
- Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools |  Programmer
+# Nuknov Just A Tech
+
+Passionate about **automation, scripting, and ethical security tools**.  
+I build lightweight solutions for **sysadmins, red team labs, and power users**.  
 
 ---
 
-##  About Me
-
-I'm deeply driven by understanding how systems break — and how to build tools that simulate, detect, and defend against those threats.  
-From malware behavior to encryption, I explore the gray areas of code for educational and research purposes.  
-Alongside cybersecurity, I also work on tools that help developers understand logic, algorithms, and systems more clearly.
-
----
-
-##  Areas of Interest
-
-- Red Team Simulations & Ethical Exploits  
-- Custom Keyloggers & Behavioral Heatmaps  
-- Secure File Encryption & Decryption Systems  
-- Phishing & Social Engineering Simulations (for awareness)  
-- Code Obfuscation • Payload Generation • AI in Offensive Security  
-- Low-Level Programming for Real-World Logic Understanding  
+## Tech Stack  
+![Batch](https://img.shields.io/badge/-Batch-000?&logo=WindowsTerminal&logoColor=white)  
+![VBScript](https://img.shields.io/badge/-VBScript-333?&logo=windows&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?&logo=powershell&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)  
+![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=windows&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)  
 
 ---
 
-##  Tech Stack
-
-**Languages:** Python • C# • Java • Batch • Bash  
-**Fields:** Ethical Hacking • System Tools • Malware Simulation  
-**Tools:** IP Scanner • Virtual Machines • Wireshark • Metasploit
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
 
 ---
 
-##  GitHub Presence
-
-![Nuknov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuknov&show_icons=true&theme=radical)   
+## Connect With Me  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&logo=Twitter&logoColor=white)](https://twitter.com/Nuknov)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white)](https://github.com/Nuknov)  
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Disclaimer  
 
-> All repositories, tools, and content shared in this profile are intended solely for **educational, research, and ethical testing** purposes.  
+> All cyber repositories, tools, and content shared in this profile are intended solely for **educational, research, and ethical testing** purposes.  
 > I do **not** support or encourage any form of illegal or unethical use of the code.  
 > Use responsibly in labs, simulations, and learning environments only.
+---
+
+💡 *“Automate the boring stuff, but keep it ethical.”* 
+💡 *“Hack smart and remain in the shadows.” - AnonKryptiQuz*  
