@@ -37,8 +37,8 @@ Alongside cybersecurity, I also work on tools that help developers understand lo
 ---
 
 ## 📫 Connect With Me  
-[![Twitter](https://twitter.com/Nuknov)  
-[![GitHub](https://github.com/Nuknov)  
+> https://twitter.com/Nuknov  
+> https://github.com/Nuknov  
 
 
 ## ⚠️ Disclaimer
