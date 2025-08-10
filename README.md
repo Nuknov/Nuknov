@@ -1,5 +1,5 @@
 #  Hey there, I'm Nuknov 
- Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools
+ Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools |  Programmer
 
 ---
 
