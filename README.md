@@ -41,3 +41,8 @@ Alongside cybersecurity, I also work on tools that help developers understand lo
 > All repositories, tools, and content shared in this profile are intended solely for **educational, research, and ethical testing** purposes.  
 > I do **not** support or encourage any form of illegal or unethical use of the code.  
 > Use responsibly in labs, simulations, and learning environments only.
+
+---
+
+💡 *“Automate the boring stuff, but keep it ethical.”*  
+💡 *“Hack smart and remain in the shadows. - AnonKryptiQuz”*  
