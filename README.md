@@ -44,5 +44,5 @@ Alongside cybersecurity, I also work on tools that help developers understand lo
 
 ---
 
-💡 *“Automate the boring stuff, but keep it ethical.”*  
-💡 *“Hack smart and remain in the shadows. - AnonKryptiQuz”*  
+>💡 *“Automate the boring stuff, but keep it ethical.”*  
+>💡 *“Hack smart and remain in the shadows. - AnonKryptiQuz”*  
