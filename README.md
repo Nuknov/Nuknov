@@ -5,7 +5,7 @@
 
 ##  About Me
 
-I'm deeply driven by understanding how systems break — and how to build tools that simulate, detect, and defend against those threats.  
+I'm deeply driven by understanding how systems break and how to build tools that simulate, detect, and defend against those threats.  
 From malware behavior to encryption, I explore the gray areas of code for educational and research purposes.  
 Alongside cybersecurity, I also work on tools that help developers understand logic, algorithms, and systems more clearly.
 
