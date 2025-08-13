@@ -1,5 +1,5 @@
-a #  Nuknov Just A Tech
- Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools |  Programmer
+## Nuknov Just A Tech
+Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools |  Programmer
 
 ---
 
