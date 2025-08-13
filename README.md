@@ -11,14 +11,14 @@ Alongside cybersecurity, I also work on tools that help developers understand lo
 
 ---
 <pre style="color: blue; font-weight: bold;">
-<span style="color:green;">
+<font style="color:green;">
 ███╗   ██╗██╗   ██╗██╗  ██╗███╗   ██╗ ██████╗ ██╗   ██╗
 ████╗  ██║██║   ██║██║ ██╔╝████╗  ██║██╔═══██╗██║   ██║
 ██╔██╗ ██║██║   ██║█████╔╝ ██╔██╗ ██║██║   ██║██║   ██║
 ██║╚██╗██║██║   ██║██╔═██╗ ██║╚██╗██║██║   ██║██║   ██║
 ██║ ╚████║╚██████╔╝██║  ██╗██║ ╚████║╚██████╔╝╚██████╔╝
 ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝
-</span>
+</font>
 </pre>
 
 
