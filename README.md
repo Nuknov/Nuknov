@@ -1,4 +1,4 @@
- #  Nuknov Just A Tech
+a #  Nuknov Just A Tech
  Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools |  Programmer
 
 ---
@@ -11,15 +11,16 @@ Alongside cybersecurity, I also work on tools that help developers understand lo
 
 ---
 
-```
+
+<span style="color: #FF0000;">This text is red.
  ███╗   ██╗██╗   ██╗██╗  ██╗███╗   ██╗ ██████╗ ██╗   ██╗
  ████╗  ██║██║   ██║██║ ██╔╝████╗  ██║██╔═══██╗██║   ██║
  ██╔██╗ ██║██║   ██║█████╔╝ ██╔██╗ ██║██║   ██║██║   ██║
  ██║╚██╗██║██║   ██║██╔═██╗ ██║╚██╗██║██║   ██║██║   ██║
  ██║ ╚████║╚██████╔╝██║  ██╗██║ ╚████║╚██████╔╝╚██████╔╝
  ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝
+</span>
 
-```
 
 ##  Areas of Interest
 
