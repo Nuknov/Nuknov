@@ -25,16 +25,15 @@ Alongside cybersecurity, I also work on tools that help developers understand lo
 --- 
 
 ## 🖥️ Areas of Interest
-```ansi
-[0;32mAnonymous@Nuknov:~$ ls -la[0m
-[0;32m"Red Team Simulations & Ethical Exploits",[0m
-[0;32m"Custom Keyloggers & Behavioral Heatmaps",[0m
-[0;32m"Secure File Encryption & Decryption Systems",[0m
-[0;32m"Phishing & Social Engineering Simulations (for awareness)",[0m
-[0;32m"Code Obfuscation • Payload Generation • AI in Offensive Security",[0m
-[0;32m"Low-Level Programming for Real-World Logic Understanding"[0m
+```bash
+Anonymous@Nuknov:~$ ls -la
+"Red Team Simulations & Ethical Exploits",
+"Custom Keyloggers & Behavioral Heatmaps",
+"Secure File Encryption & Decryption Systems",
+"Phishing & Social Engineering Simulations (for awareness)",
+"Code Obfuscation • Payload Generation • AI in Offensive Security",
+"Low-Level Programming for Real-World Logic Understanding"
 ```
-
 ---
 
 ## Tech Stack  
