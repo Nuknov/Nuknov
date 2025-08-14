@@ -38,16 +38,18 @@ Anonymous@Nuknov:~$ ls -la
 
 ## Tech Stack  
 
-**Languages:**  
-Python • C# • Java • Batch • Bash  
+```bash
+Anonymous@Nuknov:~$ cat tech_stack.txt
 
-**Fields of Expertise:**  
-Ethical Hacking • System Tools • Malware Simulation  
+Languages:
+    Python • C# • Java • Batch • Bash
 
-**Tools & Frameworks:**  
-IP Scanner • Virtual Machines • Wireshark • Metasploit  
+Fields of Expertise:
+    Ethical Hacking • System Tools • Malware Simulation
 
-
+Tools & Frameworks:
+    IP Scanner • Virtual Machines • Wireshark • Metasploit
+```
 ---
 
 ##  GitHub Presence
