@@ -35,11 +35,17 @@ Alongside cybersecurity, I also work on tools that help developers understand lo
 
 ---
 
-##  Tech Stack
+## Tech Stack  
 
-**Languages:** Python • C# • Java • Batch • Bash  
-**Fields:** Ethical Hacking • System Tools • Malware Simulation  
-**Tools:** IP Scanner • Virtual Machines • Wireshark • Metasploit
+**Languages:**  
+Python • C# • Java • Batch • Bash  
+
+**Fields of Expertise:**  
+Ethical Hacking • System Tools • Malware Simulation  
+
+**Tools & Frameworks:**  
+IP Scanner • Virtual Machines • Wireshark • Metasploit  
+
 
 ---
 
