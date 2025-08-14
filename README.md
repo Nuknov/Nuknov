@@ -2,8 +2,6 @@
 Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools |  Programmer
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&size=25&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=I+am+Nuknov;Just+a+Tech;Red+Team+Operative;Cybersecurity+Researcher;Exploit+Developer;OSINT+Hunter;Offensive+Security+Specialist)](https://git.io/typing-svg)
 
----
-
 ##  About Me
 
 I'm deeply driven by understanding how systems break and how to build tools that simulate, detect, and defend against those threats.  
