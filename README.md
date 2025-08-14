@@ -1,7 +1,6 @@
 ## Nuknov Just A Tech
 Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools |  Programmer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&size=25&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=I+am+Nuknov;Just+a+Tech;Red+Team+Enthusiast;Cybersecurity+Researcher)](https://git.io/typing-svg)
-(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&size=25&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=I+am+Nuknov;Just+a+Tech;Red+Team+Enthusiast;Cybersecurity+Researcher)](https://git.io/typing-svg)  
 
 ---
 
