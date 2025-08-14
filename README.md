@@ -33,6 +33,7 @@ Alongside cybersecurity, I also work on tools that help developers understand lo
 [0;32m"Phishing & Social Engineering Simulations (for awareness)",[0m
 [0;32m"Code Obfuscation • Payload Generation • AI in Offensive Security",[0m
 [0;32m"Low-Level Programming for Real-World Logic Understanding"[0m
+```
 
 ---
 
