@@ -38,16 +38,15 @@ Anonymous@Nuknov:~$ ls -la
 ## Tech Stack  
 
 ```bash
-Anonymous@Nuknov:~$ cat tech_stack.txt
-
-Languages:
+Anonymous@Nuknov:~$ cat tech_stack_languages.txt
+**Languages:**
     Python • C# • Java • Batch • Bash
-
-Fields of Expertise:
-    Ethical Hacking • System Tools • Malware Simulation
-
-Tools & Frameworks:
-    IP Scanner • Virtual Machines • Wireshark • Metasploit
+Anonymous@Nuknov:~$ cat tech_stack_expertise.txt
+**Fields of Expertise:**
+    Ethical Hacking • System Tools • Malware Simulation • Reverse_Engineering
+Anonymous@Nuknov:~$ cat tech_stack_frameworks.txt
+**Tools & Frameworks:**
+    keyLogging • IntelCollection • Recon • History_Harvesting
 ```
 ---
 
