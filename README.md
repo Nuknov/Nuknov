@@ -39,13 +39,13 @@ Anonymous@Nuknov:~$ ls -la
 
 ```bash
 Anonymous@Nuknov:~$ cat tech_stack_languages.txt
-**Languages:**
+Languages:
     Python • C# • Java • Batch • Bash
 Anonymous@Nuknov:~$ cat tech_stack_expertise.txt
-**Fields of Expertise:**
+Fields of Expertise:
     Ethical Hacking • System Tools • Malware Simulation • Reverse_Engineering
 Anonymous@Nuknov:~$ cat tech_stack_frameworks.txt
-**Tools & Frameworks:**
+Tools & Frameworks:
     keyLogging • IntelCollection • Recon • History_Harvesting
 ```
 ---
