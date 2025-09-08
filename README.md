@@ -61,6 +61,15 @@ Tools & Frameworks:
 
 ---
 
+## Highlights
+- 🔍 Released **NukRecon** → mini recon toolkit for red team simulations.  
+- 🖥️ Created **PC Intruder** → a stealth system-monitoring & alert tool (not yet released).  
+- 🌐 Designed **Chrome History Decrypter** → analyze & decrypt chrome browser history data.  
+- 💾 Built **USB_DATA_COLLECTOR** → red team style tool for gathering drives data in stealth way.  
+- 📝 Write-ups on reverse engineering & exploit development.  
+
+---
+
 ## ⚠️ Disclaimer
 
 > All repositories, tools, and content shared in this profile are intended solely for **educational, research, and ethical testing** purposes.  
