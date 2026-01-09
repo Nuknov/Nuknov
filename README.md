@@ -53,13 +53,7 @@ Anonymous@Nuknov:~$ cat tech_stack_frameworks.txt
 Tools & Frameworks:
     keyLogging • IntelCollection • Recon • History_Harvesting
 ```
----
-
-##  GitHub Presence
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Nuknov&show_icons=true&theme=tokyonight)
-
-   
+  
 ---
 
 
