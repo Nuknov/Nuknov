@@ -59,17 +59,8 @@ Tools & Frameworks:
 
 ![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Nuknov&show_icons=true&theme=tokyonight)
    
-
 ---
 
-## Highlights
-- 🔍 Released **NukRecon** → mini recon toolkit for red team simulations.  
-- 🖥️ Created **PC Intruder** → a stealth system-monitoring & alert tool (not yet released).  
-- 🌐 Designed **Chrome History Decrypter** → analyze & decrypt chrome browser history data.  
-- 💾 Built **USB_DATA_COLLECTOR** → red team style tool for gathering drives data in stealth way.  
-- 📝 Write-ups on reverse engineering & exploit development.  
-
----
 
 ## ⚠️ Disclaimer
 
