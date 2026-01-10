@@ -51,7 +51,7 @@ Fields of Expertise:
 Anonymous@Nuknov:~$ cat tech_stack_frameworks.txt
 
 Tools & Frameworks:
-    keyLogging • IntelCollection • Recon • History_Harvesting
+    keyLogging • IntelCollection • Recon • History_Harvesting • WP-RECONX Extension 
 ```
   
 ---
