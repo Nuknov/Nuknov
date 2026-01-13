@@ -66,5 +66,5 @@ Tools & Frameworks:
 ---
 
 ## 💡 Tips:
->*“Automate the boring stuff, but keep it ethical.”*  
+>*“Automate the boring stuff, but keep it ethical. Think outside the box.”*  
 >*“Hack smart and remain in the shadows. - **AnonKryptiQuz**”*  
