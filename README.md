@@ -11,7 +11,6 @@ From malware behavior to encryption, I explore the gray areas of code for educat
 Alongside cybersecurity, I also work on tools that help developers understand logic, algorithms, and systems more clearly.
 
 ---
-
 <pre style="color:green;">
 ███╗   ██╗██╗   ██╗██╗  ██╗███╗   ██╗ ██████╗ ██╗   ██╗
 ████╗  ██║██║   ██║██║ ██╔╝████╗  ██║██╔═══██╗██║   ██║
@@ -22,7 +21,6 @@ Alongside cybersecurity, I also work on tools that help developers understand lo
 </pre>
 
 --- 
-
 ## 🖥️ Areas of Interest
 ```bash
 Anonymous@Nuknov:~$ ls -la
@@ -33,8 +31,8 @@ Anonymous@Nuknov:~$ ls -la
 "Code Obfuscation • Payload Generation • AI in Offensive Security"/
 "Low-Level Programming for Real-World Logic Understanding"/
 ```
----
 
+---
 ## Tech Stack  
 
 ```bash
@@ -53,10 +51,6 @@ Anonymous@Nuknov:~$ cat tech_stack_frameworks.txt
 Tools & Frameworks:
     keyLogging • IntelCollection • Recon • History_Harvesting • WP-RECONX Extension 
 ```
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuknov&show_icons=true)
 
 ---
 
