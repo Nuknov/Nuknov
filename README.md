@@ -56,7 +56,7 @@ Tools & Frameworks:
 
 ---
 
-![Total Stars](https://img.shields.io/badge/dynamic/json?color=gold&label=Total%20Stars&query=%24.stars&url=https://github-stars-api.vercel.app/Nuknov)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuknov&show_icons=true)
 
 ---
 
