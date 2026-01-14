@@ -56,7 +56,7 @@ Tools & Frameworks:
   
 ---
 
-![Stars](https://img.shields.io/github/stars/Nuknov/style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Nuknov/WP-RECONX?style=for-the-badge)
 
 ---
 
