@@ -52,6 +52,8 @@ Tools & Frameworks:
     keyLogging • IntelCollection • Recon • History_Harvesting • WP-RECONX Extension 
 ```
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuknov)
+
 ---
 
 ## ⚠️ Disclaimer
