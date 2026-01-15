@@ -59,6 +59,7 @@ Tools & Frameworks:
 > All repositories, tools, and content shared in this profile are intended solely for **educational, research, and ethical testing** purposes.  
 > I do **not** support or encourage any form of illegal or unethical use of the code.  
 > Use responsibly in labs, simulations, and learning environments only.
+> All tools are intended solely for simulation and introductory educational use.
 
 ---
 
