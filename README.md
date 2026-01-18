@@ -37,7 +37,7 @@ Anonymous@Nuknov:~$ ls -la
 
 ```bash
 Anonymous@Nuknov:~$ cat tech_stack_languages.txt
-    Python • C# • Java • Batch • Bash
+    Python • C++ • Java • Bat • Bash
 
 Anonymous@Nuknov:~$ cat tech_stack_expertise.txt
     Ethical Hacking • System Tools • Malware Simulation • Reverse_Engineering
