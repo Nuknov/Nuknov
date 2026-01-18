@@ -37,18 +37,12 @@ Anonymous@Nuknov:~$ ls -la
 
 ```bash
 Anonymous@Nuknov:~$ cat tech_stack_languages.txt
-
-Languages:
     Python • C# • Java • Batch • Bash
 
 Anonymous@Nuknov:~$ cat tech_stack_expertise.txt
-
-Fields of Expertise:
     Ethical Hacking • System Tools • Malware Simulation • Reverse_Engineering
 
 Anonymous@Nuknov:~$ cat tech_stack_frameworks.txt
-
-Tools & Frameworks:
     keyLogging • IntelCollection • Recon • History_Harvesting • WP-RECONX Extension 
 ```
 
@@ -65,4 +59,3 @@ Tools & Frameworks:
 
 ## 💡 Tips:
 >*“Automate the boring stuff, but keep it ethical. Think outside the box.”*  
->*“Hack smart and remain in the shadows. - **AnonKryptiQuz**”*  
