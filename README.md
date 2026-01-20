@@ -57,5 +57,5 @@ Anonymous@Nuknov:~$ cat tech_stack_frameworks.txt
 
 ---
 
-## 💡 Tips:
+## Tips:
 >*“Automate the boring stuff, but keep it ethical. Think outside the box.”*  
