@@ -1,61 +1,124 @@
-## Nuknov
-Red Team Enthusiast |  Cybersecurity Researcher |  Developer of Logic-Based Tools |  Programmer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&size=25&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=I+am+Nuknov;Just+a+Tech;Red+Team+Operative;Cybersecurity+Researcher;Exploit+Developer;OSINT+Hunter;Offensive+Security+Specialist;Dorking+Techs)](https://git.io/typing-svg)
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=bb9af7&background=1a1b27&center=true&vCenter=true&width=1010&height=50&lines=Nuknov;Just+A+Tech;root@Nuknov:~%23+whoami;Cybersecurity+Enthusiast;Ethical+Hacker;OSINT+Specialist;Dorking+Techs" alt="Terminal Typing" />
 
+</div>
 
-##  About Me
-
-I'm deeply driven by understanding how systems break and how to build tools that simulate, detect, and defend against those threats.  
-From malware behavior to encryption, I explore the gray areas of code for educational and research purposes.  
-Alongside cybersecurity, I also work on tools that help developers understand logic, algorithms, and systems more clearly.
-
----
-<pre style="color:green;">
+```ruby
 ███╗   ██╗██╗   ██╗██╗  ██╗███╗   ██╗ ██████╗ ██╗   ██╗
 ████╗  ██║██║   ██║██║ ██╔╝████╗  ██║██╔═══██╗██║   ██║
 ██╔██╗ ██║██║   ██║█████╔╝ ██╔██╗ ██║██║   ██║██║   ██║
-██║╚██╗██║██║   ██║██╔═██╗ ██║╚██╗██║██║   ██║██║   ██║
-██║ ╚████║╚██████╔╝██║  ██╗██║ ╚████║╚██████╔╝╚██████╔╝
-╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝
-</pre>
+██║╚██╗██║██║   ██║██╔═██╗ ██║╚██╗██║██║   ██║╚██╗ ██╔╝
+██║ ╚████║╚██████╔╝██║  ██╗██║ ╚████║╚██████╔╝ ╚████╔╝ 
+╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝   ╚═══╝  
+                                                        v1.0
 
---- 
-## 🖥️ Areas of Interest
-```bash
-Anonymous@Nuknov:~$ ls -la
-"Red Team Simulations & Ethical Exploits"/
-"Custom Keyloggers & Behavioral Heatmaps"/
-"Secure File Encryption & Decryption Systems"/
-"Phishing & Social Engineering Simulations (for awareness)"/
-"Code Obfuscation • Payload Generation • AI in Offensive Security"/
-"Low-Level Programming for Real-World Logic Understanding"/
+  [+] Status: CONNECTED.
+  [+] User: Nuknov [admin@github]
+  [+] Location: github.com
+  [!] Access Level: Root
+───────────────────────────────────────────────────────────────
+```
+```ruby
+root@Nuknov:~# whoami && id
+Nuknov
+uid=0(root) gid=0(root) groups=0(root),27(sudo),1000(kali)
+
+root@Nuknov:~# echo $USER_INFO
+Cybersecurity Enthusiast | Ethical Hacker
+Specializing in penetration testing, vulnerability research, and secure coding
+Current Focus: CVE Research and Mobile Security
+───────────────────────────────────────────────────────────────────
+```
+```ruby
+root@Nuknov:~# cat /etc/skills/skills.conf
+> Programming: Python, C, C++, c#, Java, Bash, Assembly
+> Security: Penetration Testing, Network Security, Vulnerability Research
+> Tools: Git, vscode, Metasploit, Netcat
+> Systems: Linux, Windows, ParrotOS
+───────────────────────────────────────────────────────────────────
+```
+```ruby
+root@Nuknov:~# ls -la /home/Nuknov/projects/
+total 96
+drwxr-xr-x 12 Nuknov Nuknov 4096 Jan 26 16:09 .
+drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 ..
+drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 Java 3x3 Inverse Matrix 
+drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 Defacement
+drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 USB Data Collector
+drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 Chrome History Decrypter
+drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 Chrome History Forensic
+drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 WP-ReconX
+drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 DeConfigro
+drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 ScreenPulse
+drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 FocusTube
+───────────────────────────────────────────────────────────────────
+```
+```ruby
+root@Nuknov:~# systemctl status active-projects
+● active-projects.service - Active Development Projects
+   Loaded: loaded (/etc/systemd/system/active-projects.service; enabled)
+   Active: active (running) since 2026-01-26 16:09:25 UTC; 24h ago
+   
+Main PID: 1337 (project-manager)
+   Tasks: 12 (limit: 4915)
+   Memory: 256.8M
+   CGroup: /system.slice/active-projects.service
+           ├─1337 DeConfigro
+           ├─1338 Chrome History Decrypter
+           ├─1339 Word Press Recon
+           ├─1340 Focus Tube
+           ├─1341 Screen Pulse   
+           ├─1342 USB Data Collector
+           └─1343 ChatGPT Vulnerability 
+───────────────────────────────────────────────────────────────────
 ```
 
----
-## Tech Stack  
-
-```bash
-Anonymous@Nuknov:~$ cat tech_stack_languages.txt
-    Python • C++ • Java • Bat • Bash
-
-Anonymous@Nuknov:~$ cat tech_stack_expertise.txt
-    Ethical Hacking • System Tools • Malware Simulation • Reverse_Engineering
-
-Anonymous@Nuknov:~$ cat tech_stack_frameworks.txt
-    keyLogging • IntelCollection • Recon • History_Harvesting • WP-RECONX Extension 
+```ruby
+[!] Warning: Unauthorized access detected. Tracking source...
 ```
 
----
+```ruby
+root@Nuknov:~# cat /etc/motd
+╔════════════════════════════════════════════════════════════════════════════╗
+║  "The darkest port scan is brighter than the comfort of ignorance."        ║
+║  "The quieter you become, the more you are able to hear."                  ║
+║  "He who does not test his own system is enslaved by its illusions."       ║
+║  "To find a flaw, you must first doubt the surface."                       ║ 
+║                                                                            ║
+║  Ethical hacking is about making the digital world safer for everyone.     ║
+║  Research responsibly. Disclose ethically. Code with purpose.              ║
+╚════════════════════════════════════════════════════════════════════════════╝
 
-## ⚠️ Disclaimer
+root@Nuknov:~# disclaimer
+[!] All repositories, tools, and content shared in this profile are intended solely for educational and ethical testing purposes.  
+[!] I do not support or encourage any form of illegal or unethical use of the code.
+[!] Use responsibly in labs, simulations, and learning environments only.
+[!] All tools are intended solely for simulation and introductory educational use.
 
-> All repositories, tools, and content shared in this profile are intended solely for **educational, research, and ethical testing** purposes.  
-> I do **not** support or encourage any form of illegal or unethical use of the code.  
-> Use responsibly in labs, simulations, and learning environments only.  
-> All tools are intended solely for simulation and introductory educational use.
+[-] Connection to github.com closed.
+───────────────────────────────────────────────────────────────────────────
 
----
+root@Nuknov:~# uptime
+ 16:09:25 up 365 days, 12:34, 7 users, load average: 0.15, 0.10, 0.08
 
-## Tips:
->*“Automate the boring stuff, but keep it ethical. Think outside the box.”*  
+root@Nuknov:~# logout
+[INFO] Session terminated gracefully
+[INFO] All security protocols maintained
+[INFO] Ethical hacking guidelines enforced
+───────────────────────────────────────────────────────────────────────────
+
+```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Nuknov&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20|%20Ethical%20Hacker%20|%20CVE%20Hunter&descSize=20&descAlignY=60" alt="Glitch Header" />
+
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuknov&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=f7768e&line=bb9af7&point=c0caf5" alt="Activity Graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nuknov&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a1b27&title_color=f7768e&icon_color=bb9af7&text_color=c0caf5&count_private=true&include_all_commits=true" alt="Synthwave Stats" />
+
+</div>
+
+
