@@ -106,7 +106,6 @@ root@Nuknov:~# logout
 [INFO] Session terminated gracefully
 [INFO] All security protocols maintained
 [INFO] Ethical hacking guidelines enforced
-───────────────────────────────────────────────────────────────────────────
 
 ```
 <div align="center">
