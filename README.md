@@ -110,14 +110,13 @@ root@Nuknov:~# logout
 ```
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Nuknov&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20|%20Ethical%20Hacker%20|%20CVE%20Hunter&descSize=20&descAlignY=60" alt="Glitch Header" />
+<!-- HEADER: Black background + Green text -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Nuknov&fontSize=90&fontColor=00ff00&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20|%20Ethical%20Hacker%20|%20CVE%20Hunter&descSize=20&descAlignY=60&bgColor=000000" alt="Nuknov Header" />
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuknov&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=f7768e&line=bb9af7&point=c0caf5" alt="Activity Graph" />
+<!-- ACTIVITY GRAPH: Black bg, green line & points -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuknov&theme=github-dark&hide_border=true&bg_color=000000&color=00ff00&line=33ff33&point=00ff00" alt="Activity Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nuknov&show_icons=true&theme=synthwave&hide_border=true&bg_color=1a1b27&title_color=f7768e&icon_color=bb9af7&text_color=c0caf5&count_private=true&include_all_commits=true" alt="Synthwave Stats" />
-
-</div>
-
-
+<!-- STATS CARD: Dark + green accents -->
+<img src="https://github-readme-stats.vercel.app/api?username=Nuknov&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=33ff33&text_color=00ff00&count_private=true&include_all_commits=true" alt="GitHub Stats" />
