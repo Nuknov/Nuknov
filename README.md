@@ -111,7 +111,7 @@ root@Nuknov:~# logout
 <div align="center">
 
 <!-- HEADER: Black background + Green text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Nuknov&fontSize=90&fontColor=00ff00&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20|%20Ethical%20Hacker%20|%20CVE%20Hunter&descSize=20&descAlignY=60&bgColor=000000" alt="Nuknov Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Nuknov&fontSize=90&fontColor=00ff00&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20|%20Ethical%20Hacker%20|%20Programmer%20&descSize=20&descAlignY=60&bgColor=000000" alt="Nuknov Header" />
 
 </div>
 
