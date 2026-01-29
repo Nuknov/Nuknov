@@ -51,7 +51,7 @@ drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 Chrome History Forensic
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 WP-ReconX
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 DeConfigro
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 ScreenPulse
-drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 FocusTube
+drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 Ilumu Extension Tool
 ───────────────────────────────────────────────────────────────────
 ```
 ```ruby
@@ -67,7 +67,7 @@ Main PID: 1337 (project-manager)
            ├─1337 DeConfigro
            ├─1338 Chrome History Decrypter
            ├─1339 Word Press Recon
-           ├─1340 Focus Tube
+           ├─1340 Ilumu Extension Tool
            ├─1341 Screen Pulse   
            ├─1342 USB Data Collector
            └─1343 ChatGPT Vulnerability 
