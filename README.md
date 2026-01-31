@@ -119,5 +119,5 @@ root@Nuknov:~# logout
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuknov&theme=github-dark&hide_border=true&bg_color=000000&color=00ff00&line=33ff33&point=00ff00" alt="Activity Graph" />
 
 <p align="center">
-  <img width="800" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nuknov&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=33ff33&text_color=00ff00" alt="GitHub Stats" />
+  <img width="600" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nuknov&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=33ff33&text_color=00ff00" alt="GitHub Stats" />
 </p>
