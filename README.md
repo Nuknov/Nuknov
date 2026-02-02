@@ -67,10 +67,11 @@ Main PID: 1337 (project-manager)
            ├─1337 DeConfigro
            ├─1338 Chrome History Decrypter
            ├─1339 Word Press Recon
-           ├─1340 Ilumu Extension Tool
+           ├─1340 Ilumu Extension
            ├─1341 Screen Pulse   
            ├─1342 USB Data Collector
-           └─1343 ChatGPT Vulnerability 
+           ├─1343 Study.lol Extension 
+           └─1344 ChatGPT Vulnerability 
 ───────────────────────────────────────────────────────────────────
 ```
 
