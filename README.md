@@ -32,7 +32,7 @@ Current Focus: CVE Research and Mobile Security
 ```
 ```ruby
 root@Nuknov:~# cat /etc/skills/skills.conf
-> Programming: Python, C, C++, c#, Java, Bash, Assembly
+> Programming: Python, C, C++, Java, Bash, Assembly
 > Security: Penetration Testing, Network Security, Vulnerability Research
 > Tools: Git, vscode, Metasploit, Netcat
 > Systems: Linux, Windows, ParrotOS
