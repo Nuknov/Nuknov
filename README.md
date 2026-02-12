@@ -34,7 +34,7 @@ Current Focus: CVE Research and Mobile Security
 root@Nuknov:~# cat /etc/skills/skills.conf
 > Programming: Python, C, C++, Java, Bash, Assembly
 > Security: Penetration Testing, Network Security, Vulnerability Research
-> Tools: Git, vscode, Metasploit, Netcat
+> Tools: Git, vscode, Metasploit, Netcat, MSYS2
 > Systems: Linux, Windows, ParrotOS
 ───────────────────────────────────────────────────────────────────
 ```
