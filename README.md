@@ -52,7 +52,7 @@ drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 WP-ReconX
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 DeConfigro
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 ScreenPulse
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 Ilumu Extension Tool
-drwxr-xr-x  3 Nuknov Nuknov 4096 Feb 26 16:09 Study.lol Extension 
+drwxr-xr-x  3 Nuknov Nuknov 4096 Feb 26 16:09 Study.lol/SmartStudy-AI Extension 
 ───────────────────────────────────────────────────────────────────
 ```
 ```ruby
@@ -71,7 +71,7 @@ Main PID: 1337 (project-manager)
            ├─1340 Ilumu Extension
            ├─1341 Screen Pulse   
            ├─1342 USB Data Collector
-           ├─1343 Study.lol Extension 
+           ├─1343 SmartStudy-AI Extension 
            └─1344 ChatGPT Vulnerability 
 ───────────────────────────────────────────────────────────────────
 ```
