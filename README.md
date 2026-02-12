@@ -48,7 +48,7 @@ drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 Defacement
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 USB Data Collector
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 Chrome History Decrypter
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 Chrome History Forensic
-drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 WP-ReconX
+drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 WP-ReconX Extension
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 DeConfigro
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 ScreenPulse
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 Ilumu Extension Tool
@@ -67,7 +67,7 @@ Main PID: 1337 (project-manager)
    CGroup: /system.slice/active-projects.service
            ├─1337 DeConfigro
            ├─1338 Chrome History Decrypter
-           ├─1339 Word Press Recon
+           ├─1339 WP-ReconX Extension
            ├─1340 Ilumu Extension
            ├─1341 Screen Pulse   
            ├─1342 USB Data Collector
