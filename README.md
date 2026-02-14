@@ -105,9 +105,9 @@ root@Nuknov:~# uptime
  16:09:25 up 365 days, 12:34, 7 users, load average: 0.15, 0.10, 0.08
 
 root@Nuknov:~# logout
-[INFO] Session terminated gracefully
-[INFO] All security protocols maintained
-[INFO] Ethical hacking guidelines enforced
+[i] Session terminated gracefully
+[i] All security protocols maintained
+[i] Ethical hacking guidelines enforced
 
 ```
 <div align="center">
