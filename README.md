@@ -16,7 +16,7 @@
   [+] Status: CONNECTED.
   [+] User: Nuknov [admin@github]
   [+] Location: github.com
-  [!] Access Level: Root (
+  [!] Access Level: Root (/
 ───────────────────────────────────────────────────────────────
 ```
 ```ruby
