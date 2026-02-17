@@ -96,7 +96,7 @@ root@Nuknov:~# disclaimer
 [!] All repositories and tools are intended solely for educational and ethical testing purposes.  
 [!] I do not support or encourage any form of illegal or unethical use of the code.
 [!] Use responsibly in labs, simulations, and learning environments only.
-[!] All tools are intended solely for simulation and introductory educational use.
+[!] All tools are intended solely for simulation and introductory educational use only.
 
 [-] Connection to github.com closed.
 ───────────────────────────────────────────────────────────────────────────
