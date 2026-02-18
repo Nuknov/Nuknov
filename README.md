@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00ff00&background=000000&center=true&vCenter=true&width=1010&height=50&lines=Nuknov;Just+A+Tech;root@Nuknov:~%23+whoami;Cybersecurity+Enthusiast;Ethical+Hacker;OSINT+Specialist;Dorking+Techs" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00ff00&background=000000&center=true&vCenter=true&width=1010&height=50&lines=Nuknov;Just+A+Tech;root@Nuknov:~%23+whoami;Cybersecurity+Enthusiast;Ethical+Hacker;OSINT+Specialist;Dorking+Techs" alt="Typing Terminal" />
 
 </div>
 
