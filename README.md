@@ -107,7 +107,7 @@ root@Nuknov:~# uptime
 root@Nuknov:~# logout
 [i] Session terminated gracefully
 [i] All security protocols maintained
-[i] Ethical hacking guidelines enforces
+[i] Ethical hacking guidelines enforced
 
 ```
 <div align="center">
