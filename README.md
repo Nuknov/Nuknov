@@ -41,20 +41,7 @@ root@Nuknov:~# cat /etc/skills/skills.conf
 ───────────────────────────────────────────────────────────────────
 ```
 
-```ruby
-root@Nuknov:~# env | grep -i "sec\|hack\|recon\|tool"
-EDITOR=vim
-SHELL=/bin/zsh
-TERM=xterm-256color
-RECON_MODE=passive
-EXPLOIT_DB=/opt/exploitdb
-WORDLIST=/usr/share/wordlists/rockyou.txt
-PROXY=socks5://127.0.0.1:9050
-CVE_FEED=https://nvd.nist.gov/feeds/json/cve
-BURP_PORT=8080
-OSINT_API_KEY=[REDACTED]
-───────────────────────────────────────────────────────────────────
-```
+
 
 ```ruby
 root@Nuknov:~# ls -la /home/Nuknov/projects/
