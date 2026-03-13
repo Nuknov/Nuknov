@@ -13,7 +13,7 @@
 ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝   ╚═══╝  
                                                         v2.0
 
-  [+] Status: 🟢 CONNECTED
+  [+] Status: CONNECTED
   [+] User: Nuknov [admin@github]
   [+] Location: github.com
   [!] Access Level: Root (/)
