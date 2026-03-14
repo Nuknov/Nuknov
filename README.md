@@ -164,8 +164,8 @@ root@Nuknov:~# cat /etc/motd
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║  "The darkest port scan is brighter than the comfort of ignorance."        ║
 ║  "The quieter you become, the more you are able to hear."                  ║
-║                                                                            ║  
-║  "To find a flaw, you must first doubt the surface."                       ║
+║  "To find a flaw, you must first doubt the surface."                       ║  
+║                                                                            ║
 ║                                                                            ║
 ║  Ethical hacking is about making the digital world safer for everyone.     ║
 ║  Research responsibly. Disclose ethically. Code with purpose.              ║
