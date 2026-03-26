@@ -16,6 +16,7 @@
   [+] Status: CONNECTED
   [+] User: Nuknov [admin@github]
   [+] Location: github.com
+  [+] IP: 127.0.0.1
   [!] Access Level: Root (/)
 ───────────────────────────────────────────────────────────────
 ```
