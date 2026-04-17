@@ -14,7 +14,7 @@
                                                         v1.5
 
   [+] Status: CONNECTED
-  [+] User: Nuknov [admin@github]
+  [+] User: Nuknov [admin@github.io]
   [+] Location: github.com
   [+] IP: 127.0.0.1 (Loop The World)
   [!] Access Level: Root (/)
