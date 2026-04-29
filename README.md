@@ -17,7 +17,7 @@
   [+] User: Nuknov [admin@github]
   [+] Location: github.com
   [+] IP: 127.0.0.1 (Loop The World)
-  [!] Access Level: Root 
+  [!] Access Level: Root (/)
 ───────────────────────────────────────────────────────────────
 ```
 
