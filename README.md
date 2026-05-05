@@ -200,5 +200,4 @@ root@Nuknov:~# logout
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nuknov&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=33ff33&ring_color=00ff00" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nuknov&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=33ff33&dates=33ff33&currStreakNum=00ff00&sideNums=33ff33" alt="Streak Stats" />
 </p>
