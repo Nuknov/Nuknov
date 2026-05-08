@@ -107,7 +107,8 @@ Main PID: 1337 (project-manager)
            ├─1341 Screen Pulse
            ├─1342 USB Data Collector
            ├─1343 SmartStudy-AI Extension
-           └─1344 ChatGPT Vulnerability
+           ├─1344 OSINT Tool + AI (2026)
+           └─1345 ChatGPT Vulnerability
 ───────────────────────────────────────────────────────────────────
 ```
 
