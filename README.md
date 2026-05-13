@@ -72,6 +72,7 @@ drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 DeConfigro
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 ScreenPulse
 drwxr-xr-x  3 Nuknov Nuknov 4096 Jan 26 16:09 Ilumu Extension Tool
 drwxr-xr-x  3 Nuknov Nuknov 4096 Feb 26 16:09 Study.lol/SmartStudy-AI Extension
+drwxr-xr-x  3 Nuknov Nuknov 4096 Feb 26 16:09 desktop.ini
 ───────────────────────────────────────────────────────────────────
 ```
 
